@@ -1,0 +1,1 @@
+/* Consegna: stampare a schermo lista della spesa con ciclo while */
